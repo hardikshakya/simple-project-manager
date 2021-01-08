@@ -52,3 +52,5 @@
   ```
 
 ## Demo
+![alt img](https://github.com/hardikshakya/simple-project-manager/blob/master/4t1iw9.gif)
+
